@@ -34,7 +34,6 @@
                 <label for="statut" class="form-label">Statut:</label>
                 <select class="form-select" id="statut" name="statut" required>
                     <option value="success">Success</option>
-                    <option value="pending">Pending</option>
                     <option value="failed">Failed</option>
                 </select>
             </div>
